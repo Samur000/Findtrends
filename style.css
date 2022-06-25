@@ -121,7 +121,7 @@ a{text-decoration: none;}
    .headder__register{
       display: none;
    }
-   .headder__logo span{
+   .header__logo-twxt{
       display: none;
    }
    .header__burger{
